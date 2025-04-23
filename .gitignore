@@ -1,0 +1,19 @@
+# Eclipse specific
+.classpath
+.project
+.settings/
+
+# Maven build directory
+/target/
+
+# Build artifacts
+*.war
+*.jar
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
