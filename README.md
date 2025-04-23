@@ -6,15 +6,13 @@ A **Spring MVC-based web application** for managing buses, built using **Java**,
 
 ## Tech Stack
 
-| Layer         | Technology       |
-|---------------|------------------|
-| Language      | Java-jdk17       |
-| Framework     | Spring MVC       |
-| Frontend      | JSP, HTML, CSS   |
-| Database      | MySQL            |
-| Build Tool    | Maven            |
-| Server        | Apache Tomcat    |
-| IDE           | Eclipse          |
+- Programming: Java 17
+- Frameworks: Spring MVC, Hibernate
+- Frontend: JSP, HTML, CSS
+- Database: MySQL
+- Build tool: Maven
+- Server: Apache Tomcat 10.1
+- IDE: Eclipse
 
 ---
 
@@ -34,7 +32,7 @@ A **Spring MVC-based web application** for managing buses, built using **Java**,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/dev-37/Bus-Management-System.git
    ```
 
 2. **Open in Eclipse**
